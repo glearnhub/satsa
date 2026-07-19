@@ -14,8 +14,7 @@ function Hero() {
             delivered reliably, affordably, and on time.
           </p>
           <div className="hero-actions">
-            <a href="#contact" className="btn btn-accent">Request a Quote</a>
-            <a href="#products" className="btn btn-outline">View Products</a>
+            <a href="#products" className="btn btn-accent">View Products</a>
           </div>
         </div>
       </div>
