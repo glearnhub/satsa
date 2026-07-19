@@ -11,8 +11,7 @@ function Footer() {
     <footer className="footer">
       <div className="container footer-inner">
         <div>
-          <span className="brand-mark">SATSA</span>
-          <p className="footer-tagline">General &amp; Office Supplies</p>
+          <img src="/satsa_logo.png" alt="SATSA General & Office Supplies" className="footer-logo" />
         </div>
 
         <nav className="footer-links">

@@ -15,8 +15,7 @@ function Navbar() {
     <header className="navbar">
       <div className="container navbar-inner">
         <a href="#home" className="brand" onClick={() => setOpen(false)}>
-          <span className="brand-mark">SATSA</span>
-          <span className="brand-sub">General &amp; Office Supplies</span>
+          <img src="/satsa_logo.png" alt="SATSA General & Office Supplies" className="brand-logo" />
         </a>
 
         <nav className={`nav-links ${open ? 'open' : ''}`}>

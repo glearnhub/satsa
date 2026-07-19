@@ -1,6 +1,7 @@
 import { useState } from 'react'
 
-const CONTACT_EMAIL = 'info@satsasupplies.com'
+const CONTACT_EMAIL = 'Sharonadagara@gmail.com'
+const CONTACT_PHONE = '+254 745 267164'
 
 function Contact() {
   const [form, setForm] = useState({ name: '', email: '', message: '' })
@@ -31,7 +32,7 @@ function Contact() {
           </p>
           <ul className="contact-details">
             <li><strong>Email:</strong> {CONTACT_EMAIL}</li>
-            <li><strong>Phone:</strong> +254 700 000 000</li>
+            <li><strong>Phone:</strong> {CONTACT_PHONE}</li>
             <li><strong>Location:</strong> Nairobi, Kenya</li>
           </ul>
         </div>
