@@ -18,17 +18,6 @@ function Hero() {
             <a href="#products" className="btn btn-outline">View Products</a>
           </div>
         </div>
-
-        <div className="hero-art" aria-hidden="true">
-          <div className="hero-grid">
-            <span>📎</span>
-            <span>🖨️</span>
-            <span>🪑</span>
-            <span>🧹</span>
-            <span>📁</span>
-            <span>✏️</span>
-          </div>
-        </div>
       </div>
     </section>
   )
