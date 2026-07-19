@@ -25,6 +25,11 @@ const PRODUCTS = [
     description: 'Quality cleaning and hygiene supplies to keep your premises spotless.',
   },
   {
+    icon: '🏠',
+    title: 'Household Products',
+    description: 'Everyday essentials and home care supplies for families and households.',
+  },
+  {
     icon: '📦',
     title: 'General Business Supplies',
     description: 'A broad range of supplies tailored to keep any organization operating efficiently.',

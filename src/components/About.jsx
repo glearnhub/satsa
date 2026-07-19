@@ -1,4 +1,4 @@
-const SERVED = ['Businesses', 'Schools', 'Organizations', 'Institutions']
+const SERVED = ['Businesses', 'Schools', 'Organizations', 'Institutions', 'Households']
 
 function About() {
   return (
@@ -9,9 +9,10 @@ function About() {
           <h2 className="section-title">Committed to quality, reliability, and lasting partnerships</h2>
           <p>
             We are committed to providing reliable, affordable, and timely solutions
-            that help businesses, schools, organizations, and institutions operate
-            efficiently. Our focus is on quality products, excellent customer
-            service, and building long-term relationships with our clients.
+            that help businesses, schools, organizations, institutions, and
+            households operate efficiently. Our focus is on quality products,
+            excellent customer service, and building long-term relationships with
+            our clients.
           </p>
         </div>
 

@@ -10,8 +10,8 @@ function Hero() {
           <p className="hero-lead">
             SATSA General &amp; Office Supplies is a trusted supplier of high-quality
             office essentials, stationery, furniture, printing materials, cleaning
-            products, and general business supplies &mdash; delivered reliably,
-            affordably, and on time.
+            products, household products, and general business supplies &mdash;
+            delivered reliably, affordably, and on time.
           </p>
           <div className="hero-actions">
             <a href="#contact" className="btn btn-accent">Request a Quote</a>
