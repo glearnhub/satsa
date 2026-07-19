@@ -1,6 +1,6 @@
 :root {
   --bg: #ffffff;
-  --bg-alt: #f5f7fa;
+  --bg-alt: #ffffff;
   --text: #1f2937;
   --text-muted: #5b6572;
   --heading: #0f2942;
@@ -8,11 +8,11 @@
   --primary-light: #17395c;
   --accent: #e2792c;
   --accent-dark: #c9631b;
-  --border: #e5e7eb;
+  --border: #e9ebef;
   --card-bg: #ffffff;
-  --shadow: rgba(15, 41, 66, 0.08) 0 4px 20px -4px;
+  --shadow: rgba(15, 41, 66, 0.06) 0 4px 20px -4px;
 
-  --sans: 'Segoe UI', system-ui, Roboto, sans-serif;
+  --sans: 'Poppins', 'Segoe UI', system-ui, Roboto, sans-serif;
 
   font: 16px/1.6 var(--sans);
   color-scheme: light dark;
