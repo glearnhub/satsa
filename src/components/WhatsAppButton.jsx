@@ -1,8 +1,9 @@
-const PHONE = '254745267164'
+import { whatsappLink } from '../whatsapp'
+
 const MESSAGE = "Hello SATSA, I'd like to enquire about your products."
 
 function WhatsAppButton() {
-  const href = `https://wa.me/${PHONE}?text=${encodeURIComponent(MESSAGE)}`
+  const href = whatsappLink(MESSAGE)
 
   return (
     <a
