@@ -101,10 +101,6 @@
   color: var(--accent);
 }
 
-.nav-cta {
-  margin-left: 4px;
-}
-
 .nav-toggle {
   display: none;
   flex-direction: column;
@@ -143,10 +139,6 @@
 
   .nav-links.open {
     display: flex;
-  }
-
-  .nav-cta {
-    margin-left: 0;
   }
 }
 

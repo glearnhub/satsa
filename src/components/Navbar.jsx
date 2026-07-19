@@ -24,9 +24,6 @@ function Navbar() {
               {link.label}
             </a>
           ))}
-          <a href="#contact" className="btn btn-primary nav-cta" onClick={() => setOpen(false)}>
-            Get a Quote
-          </a>
         </nav>
 
         <button
