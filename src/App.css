@@ -88,12 +88,6 @@
   color: var(--primary);
 }
 
-@media (prefers-color-scheme: dark) {
-  .brand-mark {
-    color: var(--accent);
-  }
-}
-
 .brand-sub {
   font-size: 11px;
   color: var(--text-muted);

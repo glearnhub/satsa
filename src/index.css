@@ -15,30 +15,13 @@
   --sans: 'Poppins', 'Segoe UI', system-ui, Roboto, sans-serif;
 
   font: 16px/1.6 var(--sans);
-  color-scheme: light dark;
+  color-scheme: light;
   color: var(--text);
   background: var(--bg);
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #0b1220;
-    --bg-alt: #101a2c;
-    --text: #d7dde5;
-    --text-muted: #93a0b0;
-    --heading: #f1f5f9;
-    --primary: #163a5c;
-    --primary-light: #1e4a73;
-    --accent: #f0954a;
-    --accent-dark: #f0954a;
-    --border: #22304a;
-    --card-bg: #111c30;
-    --shadow: rgba(0, 0, 0, 0.35) 0 4px 20px -4px;
-  }
 }
 
 * {
